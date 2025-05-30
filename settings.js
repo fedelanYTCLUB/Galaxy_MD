@@ -16,19 +16,15 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5214181450063', ' 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔 Creador 🜲', true],
+  ['5491156178758', ' fedelanYT Creador 🜲', true],
   ['5217461177130',  'ASTA_BOT', true],
   ['5216631079388', ' neykor 🜲', true],
-  ['5931985440092', ' Paul', true],
-  ['511907512473', ' Pablo', true],
-  ['5216647868496', ' javi', true],
-  ['511927917562', ' peruano', true],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['524181450063'] 
+global.suittag = ['5491156178758'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -49,7 +45,7 @@ global.botname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
 global.wm = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
 global.author = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
 global.dev = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.textbot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』 • Powered By 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.textbot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』 • Powered By fedelanYT'
 global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -57,8 +53,8 @@ global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
 global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg'
-global.avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg'
+global.banner = 'https://qu.ax/iJMkh.jpg'
+global.avatar = 'https://qu.ax/iJMkh.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
