@@ -66,7 +66,7 @@ global.waitt = '❍ Espera un momento, soy lenta...';
 global.waittt = '❍ Espera un momento, soy lenta...';
 global.waitttt = '❍ Espera un momento, soy lenta...';
 
-var canal = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'  
+var canal = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'  
 var comunidad = 'https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk'
 var git = 'https://github.com/Fer280809'
 var github = 'https://github.com/Fer280809/Asta_bot' 
@@ -74,7 +74,7 @@ let correo = 'fer280809fl@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
-const db = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/w536-h536/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg'
+const db = 'https://qu.ax/heSbE.jpg'
 try {
   const response = await fetch(db);
   //  const text = await response.text();  // Remove this line
