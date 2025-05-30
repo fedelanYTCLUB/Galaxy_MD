@@ -8,7 +8,7 @@ let handler = async (m, { conn, args }) => {
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
     
     let txt = `
-    ✦...*BIENENIDO*...✦
+    ✦...*BIENENIDO/A*...✦
     ✦@${userId.split('@')[0]}✦
 
 > ✰ Hola! Me llamo ✰
@@ -18,7 +18,7 @@ let handler = async (m, { conn, args }) => {
 │ *❀ Modo BOT* »
 │      Publico
 │ *✦ Bot* »
-│    ${(conn.user.jid == global.conn.user.jid ? 'No oficial 🅥' : 'Sup Bot🅑')}
+│    ${(conn.user.jid == global.conn.user.jid ? 'bot oficial 🅥' : 'Sub-Bot🅑')}
 │ *ⴵ Activada* »
 │  ${uptime}
 │ *✰ Total de usuarios* »
@@ -28,7 +28,7 @@ let handler = async (m, { conn, args }) => {
 ╰─────────────
 📑 Canal oficial
 
-  https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21
+  https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n
 
 > ❍ Se bot en el grupo oficial del bot 
 
