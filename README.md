@@ -155,8 +155,8 @@ npm start
 <details>
 <summary><b>☎️ Contactos Directos</b></summary>
 
-* 📲 WhatsApp: [`CONTÁCTANOS`](https:/Wa.me/524181450063)
-* 🔥 Solicita bot oficial: [`CONTÁCTANOS`](https://wa.me/527461177130)
+* 📲 WhatsApp: [`CONTÁCTANOS`](https:/Wa.me/5491156178758)
+* 🔥 Solicita bot oficial: [`CONTÁCTANOS`](https://wa.me/5491156178758)
 
 </details>
 
@@ -190,9 +190,3 @@ npm start
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
-
-### **`🌟 Colaboradores Destacados`**
-<a href="https://github.com/Fer280809/Asta_bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Fer280809/Asta_bot" /> 
-</a>
-
