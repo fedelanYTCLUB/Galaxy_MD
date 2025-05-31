@@ -17,7 +17,7 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
   ['5491156178758', ' fedelanYT Creador 🜲', true],
-  ['5491164352241',  'Asta_clover, true],
+  ['5491164352241',  'Asta_clover', true],
   ['13124976342', ' josue 🜲', true],
 ];
 
