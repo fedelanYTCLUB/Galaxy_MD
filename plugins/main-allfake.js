@@ -27,13 +27,13 @@ return res.data
 console.log(`Error : ${e}`)
 }}
   
-global.creador = 'Wa.me/524181450063'
+global.creador = 'Wa.me/5491156178758'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/527461177130'
-global.namechannel = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.namechannel2 = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.namegrupo = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.namecomu = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.asistencia = 'Wa.me/5491164352241'
+global.namechannel = 'ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ'
+global.namechannel2 = 'ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ'
+global.namegrupo = 'ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ'
+global.namecomu = 'ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
