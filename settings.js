@@ -58,12 +58,12 @@ global.avatar = 'https://qu.ax/iJMkh.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/BWwvJ4h5lzuLhIuXsBK0Wh'
+global.gp1 = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs'
 global.comunidad1 = 'https://chat.whatsapp.com/FX6eYrqXtt9L76NDpOm2K7'
 global.channel = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 global.md = 'https://github.com/Fer280809/Asta_bot'
-global.correo = 'fer280809fl@gmail.com'
+global.correo = 'fedelanytf@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -71,7 +71,7 @@ global.cn ='https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n';
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363416409380841@newsletter',
+ch1: '120363400708262483@newsletter',
 }
 global.multiplier = 70
 
