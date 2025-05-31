@@ -62,7 +62,7 @@ global.gp1 = 'https://chat.whatsapp.com/GYTJqKhf6z1HBsyyidsBUs'
 global.comunidad1 = 'https://chat.whatsapp.com/FX6eYrqXtt9L76NDpOm2K7'
 global.channel = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
-global.md = 'https://github.com/Fer280809/Asta_bot'
+global.md = 'https://github.com/FedelanYTCLUB/Galaxy_MD'
 global.correo = 'fedelanytf@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n';
 
