@@ -32,21 +32,21 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '2.2.0'
-global.nameqr = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.namebot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.nameqr = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』'
+global.namebot = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.botname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.wm = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
-global.author = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.dev = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
-global.textbot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』 • Powered By fedelanYT'
-global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.packname = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』'
+global.botname = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』'
+global.wm = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』'
+global.author = 'ғᴇᴅᴇʟᴀɴʏᴛ'
+global.dev = 'ғᴇᴅᴇʟᴀɴʏᴛ'
+global.textbot = '『🍀 ᴀsᴛᴀ_ᴄʟᴏᴠᴇʀ-ʙᴏᴛ 🍀』 • Powered By fedelanYT'
+global.etiqueta = 'ғᴇᴅᴇʟᴀɴʏᴛ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -59,12 +59,12 @@ global.avatar = 'https://qu.ax/iJMkh.jpg'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.gp1 = 'https://chat.whatsapp.com/BWwvJ4h5lzuLhIuXsBK0Wh'
-global.comunidad1 = 'https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk'
-global.channel = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
+global.comunidad1 = 'https://chat.whatsapp.com/FX6eYrqXtt9L76NDpOm2K7'
+global.channel = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 global.md = 'https://github.com/Fer280809/Asta_bot'
 global.correo = 'fer280809fl@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21';
+global.cn ='https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
