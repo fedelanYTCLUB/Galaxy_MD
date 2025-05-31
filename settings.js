@@ -53,8 +53,8 @@ global.etiqueta = 'ғᴇᴅᴇʟᴀɴʏᴛ'
 global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://qu.ax/iJMkh.jpg'
-global.avatar = 'https://qu.ax/iJMkh.jpg'
+global.banner = 'https://qu.ax/heSbE.jpg'
+global.avatar = 'https://qu.ax/heSbE.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
