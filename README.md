@@ -105,7 +105,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Fer280809/Asta_bot && cd Asta_bot
+git clone https://github.com/fedelanYTCLUB/Galaxy_MD && cd Galaxy_MD 
 ```
 ```bash
 yarn install 
@@ -130,7 +130,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Asta_bot
+    cd Galaxy_MD 
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -144,32 +144,13 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la sesión del bot deseas poner tu número en la lista de owner, usa este comando:
 
    ```bash
-    cd Asta_bot && nano settings.js
+    cd Galaxy_MD && nano settings.js
    ```
 
 </details>
 
-📢 EL BOT SE ACTUALIZA CADA SEMANA O MES Y SE LE HACE MANTENIMIENTO EN ESTE REPOSITORIO
 
-### **`📹 Video tutorial de instalacion`**
 
-⬇️ Click en la imagen para ir al video⬇️
-
-<a
-href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/Fer280809/Asta_bot/blob/main/src/catalogo.jpg" height="205px"></a> 
-
-</div>
-
----
-### **`🌐 Enlaces útiles`**
-
-<details>
- <summary><b>🚀 Enlaces Oficiales </b></summary>
-
- * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21)
-* 💫 Grupo Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk)
-* 🌟 Comunidad Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/KKwDZn5vDAE6MhZFAcVQeO)
-</details>
 
 <details>
 <summary><b>☎️ Contactos Directos</b></summary>
@@ -215,29 +196,3 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
 <img src="https://contrib.rocks/image?repo=Fer280809/Asta_bot" /> 
 </a>
 
-### **`🙏 Créditos`**
-<a href="https://github.com/edward-1738" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/edward-1738.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-</a>
-<a href="https://github.com/Aqua200" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/Aqua200.png" width="130" height="130" alt="Neykoor💜" style="border-radius: 50%;"/>
-</a>
-
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
-</a>
-</a>
-<a href="https://github.com/The-King-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
-</a>
-
-
-<h1 align="center">⚡ EL BOT SE ACTUALIZA SEMANALMENTE ⚡</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=800&size=28&pause=1000&color=F7DE00&width=650&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%A5+MANT%C3%89N+TU+BOT+SIEMPRE+ACTUALIZADO+%F0%9F%94%A5;%E2%AD%90+NUEVAS+FUNCIONES+CADA+SEMANA+%E2%AD%90;%F0%9F%9A%80+S%C3%8DGUENOS+EN+EL+CANAL+PARA+NOVEDADES+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</div>
