@@ -68,9 +68,9 @@ global.waitttt = '❍ Espera un momento, soy lenta...';
 
 var canal = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'  
 var comunidad = 'https://chat.whatsapp.com/FX6eYrqXtt9L76NDpOm2K7'
-var git = 'https://github.com/Fer280809'
-var github = 'https://github.com/Fer280809/Asta_bot' 
-let correo = 'fer280809fl@gmail.com'
+var git = 'https://github.com/FedelanYTCLUB'
+var github = 'https://github.com/FedelanYTCLUB/Galaxy_MD' 
+let correo = 'fedelanytf@gmail.com'
 global.redes = [canal, comunidad, git, github, correo].getRandom()
 
 let category = "imagen"
