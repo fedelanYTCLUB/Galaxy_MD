@@ -124,6 +124,8 @@ ${emojis.diamond} +${rewards.joincount} ${emojis.token} Tokens
 \`\`\`${sn}\`\`\`
 _Guárdalo para recuperar cuenta_
 
+> *SIGUE EL CANAL OFC 👇*
+https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n
 ✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧`;
   
   // Reaccionar con una secuencia de emojis para mayor impacto
